@@ -1,0 +1,31 @@
+package com.selpar.selparbulut.model
+
+class SigortaBilgiModel(
+    val KabulId:String,
+    val KabulNo:String,
+    val SigortaSirketi:String,
+    val PoliceTuru:String,
+    val PoliceNo:String,
+    val PoliceTarihi:String,
+    val ZeyilNo:String,
+    val ZeyilTarihi:String,
+    val DosyaNo:String,
+    val EksperAdi:String,
+    val EksperUnvani:String,
+    val EksperTelefon:String,
+    val EksperMail:String,
+    val EksperGsm:String,
+    val EksperAdresi:String,
+    val EksperIli:String,
+    val SigertaAcentesi:String,
+    val SigortaAcenteTelefon:String,
+    val SigortaAcenteAdresi:String,
+    val SigortaAcenteIli:String,
+    val TramerTarihi:String,
+    val TramerSonucu:String,
+    val KazaTarihi:String,
+    val KazaSaati:String,
+    val IhbarTarihi:String,
+    val IhbarSaati:String,
+) {
+}

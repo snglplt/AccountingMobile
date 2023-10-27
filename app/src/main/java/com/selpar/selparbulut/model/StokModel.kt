@@ -1,0 +1,32 @@
+package com.selpar.selparbulut.model
+
+class StokModel(
+    val username:String,
+    val uid:String,
+    val StokID:String,
+    val StokNumarasi:String,
+    val StokAdi:String,
+    val OEMKodu:String,
+    val DegisenMuadil:String,
+    val UreticiNumarasi:String,
+    val ListeFiyati:String,
+    val ParaBirimi:String,
+    val Uretici:String,
+    val Kalan:String,
+    val RafYeri:String,
+    val SiparisAdeti:String,
+    val StokTuru:String,
+    val Aciklama:String,
+    val StokGrupKodu:String,
+    val EticaretFiyat:String,
+    val Resim1:String,
+    val Resim2:String,
+    val ResimLink1:String,
+    val ResimLink2:String,
+    val Birim:String,
+    val GuncellemeTarihi:String,
+    val EklemeTarihi:String,
+    val KategoriIdler:String,
+    val AracIdler:String,
+) {
+}
